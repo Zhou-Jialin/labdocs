@@ -1,0 +1,8 @@
+site_name: Lab Docs
+site_url: https://
+nav:
+  - "index.md"
+  - "简单的LaTeX.md"
+
+theme:
+  name: material
